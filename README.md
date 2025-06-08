@@ -27,7 +27,8 @@ This project aims to segment customers based on their **spending behavior**, **a
 
 ### Expected Outcome
 
-A clear segmentation of customers into meaningful groups that represent different **spending patterns** and **demographic characteristics**. This system can help businesses:
+A clear segmentation of customers into meaningful groups that represent different **spending patterns** and **demographic characteristics**. This system can help businesses
+
 
 * Personalize marketing campaigns
 * Improve customer retention strategies
