@@ -19,7 +19,7 @@ This project aims to segment customers based on their **spending behavior**, **a
    * Apply the K-Means clustering algorithm to identify distinct customer segments.
    * Use the Elbow Method to determine the optimal number of clusters.
 
-3. **Visualization & Interpretation**
+4. **Visualization & Interpretation**
 
    * Visualize clusters using 2D and 3D plots for better interpretability.
    * Interpret each segment's behavior to derive actionable business insights.
