@@ -3,7 +3,6 @@
 
 ### Goal
 
-
 This project aims to segment customers based on their **spending behavior**, **age**, **income**, and **preferences** using clustering algorithms. The primary objective is to help businesses better understand different customer groups for **targeted marketing strategies**.
 
 ---
